@@ -172,7 +172,7 @@ function todosIguales(arreglo) {
   }
       return true 
 } 
-
+  
 
 function mesesDelAño(array) {
   //Dado un array que contiene algunos meses del año desordenados, recorrer el array buscando los meses de 
